@@ -1,0 +1,11 @@
+MIDlet-1: SimEtris, /simetris.png, SimEtris
+MIDlet-Icon: /simetris.png
+MIDlet-Jar-Size: 20152
+MIDlet-Jar-URL: SimEtris.jar
+MIDlet-Name: SimEtris
+MIDlet-Permissions: 
+MIDlet-Permissions-Opt: 
+MIDlet-Vendor: Simone Pernice
+MIDlet-Version: 1.4.1
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
